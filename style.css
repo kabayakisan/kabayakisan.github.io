@@ -1,0 +1,19 @@
+h1 { color: red; }
+p { color: blue; }
+
+.sheep {color:purple;}
+
+.macaron {color:green;}
+
+.flower {color:orange;}
+
+.cake {
+color: blue;
+}
+
+.coffee {color:pink;}
+
+
+.grd{
+color: rgd(255,255,90);
+background: linear-gradient(to right , #38a092 , #fdbf3b);}
